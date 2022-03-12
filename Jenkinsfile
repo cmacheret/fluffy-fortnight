@@ -11,5 +11,10 @@ pipeline {
                 sh 'npm install'
             }
         }
+        stage('Test') {
+            steps {
+                sh './simple-node-js-react-nmp-app/jenkins/scripts/test.sh'
+            }
+        }
     }
 }
