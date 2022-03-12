@@ -4,3 +4,6 @@ This is a nice readme file for testing purpose
 
 add example from youtube video https://github.com/patebija/simple-node-js-react-npm-app
 git rm --cached simple-nodejs-react-npm-app/simple-node-js-react-npm-app
+
+in jenkenks install docker and docker pipeline plugins otherwise error => Invalid agent type "docker" specified. Must be one of [any, label, none]
+
